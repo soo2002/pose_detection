@@ -1,2 +1,2 @@
-# pose_detection
-detect the pose that you are in
+# pose_detection_alert_to_email
+detect human and alert through email
